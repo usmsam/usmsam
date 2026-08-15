@@ -17,25 +17,50 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">  About me
+<div align="center">
 
-```ts
-const samandar = {
-  role:      "Frontend Engineer",
-  location:  "Tashkent, Uzbekistan · UTC+5",
-  focus:     ["Real-time interfaces", "Product platforms", "Mobile apps"],
-  stack:     ["React", "TypeScript", "React Native", "Redux Toolkit"],
-  interests: ["Frontend architecture", "Performance", "Fullstack growth"],
-} as const;
-```
+Frontend engineer, 4+ years commercial. I build web and mobile products end to end — from module architecture to production release. Most of my work lives in private repositories, so this profile is where experiments live.
 
-Frontend engineer with **4+ years of commercial experience**, building web and mobile products end to end — from module architecture to production release. Most of my work lives in private company repositories, so this profile is where I keep experiments and open work.
+</div> <table width="100%"> <tr> <td width="33%" align="center"> <img src="https://img.shields.io/badge/REAL--TIME-FF6B6B?style=for-the-badge&logoColor=white"/>
 
-- 🎥 &nbsp;**Real-time** — WebRTC video calling, screen sharing, Socket.IO messaging with push notifications
-- 🏗️ &nbsp;**Platforms** — admin panels, LMS modules, document workflows, payment and installment flows
-- 📱 &nbsp;**Mobile** — React Native + Expo, from empty repo to store release
-- 🧩 &nbsp;**Foundations** — reusable UI component libraries, architecture from scratch, performance work
-- 👥 &nbsp;**Leadership** — led frontend projects and a group of junior developers at a full-cycle web studio
+🎥
+
+WebRTC video calling Screen sharing Socket.IO messaging Push notifications
+
+</td> <td width="33%" align="center"> <img src="https://img.shields.io/badge/PLATFORMS-4ECDC4?style=for-the-badge&logoColor=white"/>
+
+🏗️
+
+Admin panels LMS modules Document workflows Payment & installments
+
+</td> <td width="33%" align="center"> <img src="https://img.shields.io/badge/MOBILE-FFD93D?style=for-the-badge&logoColor=black"/>
+
+📱
+
+React Native + Expo Empty repo → store Offline-first flows Native integrations
+
+</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/FOUNDATIONS-A78BFA?style=for-the-badge&logoColor=white"/>
+
+🧩
+
+UI component libraries Architecture from scratch Performance work Code quality
+
+</td> <td align="center"> <img src="https://img.shields.io/badge/LEADERSHIP-38BDF8?style=for-the-badge&logoColor=white"/>
+
+👥
+
+Led frontend projects Mentored juniors Code reviews Architectural decisions
+
+</td> <td align="center"> <img src="https://img.shields.io/badge/GROWING-84CC16?style=for-the-badge&logoColor=white"/>
+
+🚀
+
+Node.js · NestJS PostgreSQL · Docker CI/CD · System design Toward fullstack
+
+</td> </tr> </table>
+
+<br><br>
 
 <br>
 

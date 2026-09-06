@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=4%2B+years+of+commercial+frontend+experience;Real-time+interfaces%3A+WebRTC%2C+Socket.IO;Web+%2B+Mobile+%E2%80%94+React+%26+React+Native;From+architecture+to+production+release" alt="typing"/>
-
-<br>
-
 <a href="https://usmanov.dev"><img src="https://img.shields.io/badge/Portfolio-usmanov.dev-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/usmsam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/usmanovsam"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>

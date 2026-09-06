@@ -116,26 +116,4 @@ Online acquiring, antifraud and e-commerce platform for banks. Interface redesig
 
 <br>
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=usmsam&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&include_all_commits=true"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=usmsam&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=usmsam&hide_border=true&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmsam&theme=tokyonight"/>
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=usmsam&bg_color=0D1117&color=38BDF8&line=38BDF8&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20activity"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💬 Open to interesting frontend work — remote or Tashkent based
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
